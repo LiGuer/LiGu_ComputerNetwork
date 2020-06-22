@@ -32,8 +32,9 @@
 6. 控件台窗口最小化，避免视觉干扰。  
 7. 套接端口号为57953，位数较高。   
   
-·主控端(客户端)可用"网络调试助手"代替完成。  
-
+·主控端(客户端)可用"网络调试助手"代替完成。    
+![test image size](https://github.com/LiGuer/LiGu-RemoteControl/blob/master/img/img01.png){:height="400px"}  
+  
 [2020年3月4日17:00]  
 【/* 冰河远程监控系统】  
 功能:  
