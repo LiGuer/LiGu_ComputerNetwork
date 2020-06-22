@@ -33,7 +33,7 @@
 7. 套接端口号为57953，位数较高。   
   
 ·主控端(客户端)可用"网络调试助手"代替完成。    
-![test image size](https://github.com/LiGuer/LiGu-RemoteControl/blob/master/img/img01.png){:height="400px"}  
+![test image-w50](https://github.com/LiGuer/LiGu-RemoteControl/blob/master/img/img03.png)
   
 [2020年3月4日17:00]  
 【/* 冰河远程监控系统】  
@@ -53,4 +53,5 @@
 3. 文件、截图接收后，暂时只能显示Ascii码，  
     不能保存为文件，因为还没写客户端程序。  
 4. 客户端的界面程序编写，又是一件路漫漫其修远兮的事【头秃】  
-  
+![test image](https://github.com/LiGuer/LiGu-RemoteControl/blob/master/img/img01.png)
+![test image](https://github.com/LiGuer/LiGu-RemoteControl/blob/master/img/img02.png)
