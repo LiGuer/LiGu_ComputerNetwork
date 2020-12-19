@@ -1,5 +1,6 @@
-# LiGu-RemoteControl  
-## Introduction  
+# LiGu-LiGu_ComputerNetwork
+## Remote Control
+### Introduction  
 * This is a Remote Control Program
 * Function:  
   1. [dir "url"]指令: 查询文件列表  
