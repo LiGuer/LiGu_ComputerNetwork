@@ -1,4 +1,4 @@
-# LiGu-LiGu_ComputerNetwork
+# LiGu's ComputerNetwork
 ## Remote Control
 ### Introduction  
 * This is a Remote Control Program
